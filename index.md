@@ -14,8 +14,6 @@ Nature as a Defense from Disasters: Natural Capital and Municipal Bond Yields <d
 - Best paper at the Ivey/ARCS Ph.D. Sustainability Academy
 - Presented at Finance Down Under 2022, AFA Poster Session 2022, GRASFI 2021
 
-
-
 #### Work in Progress
 
 The Samsara Effect: The Impact of Mortality and Asset Prices

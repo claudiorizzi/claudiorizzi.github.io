@@ -1,5 +1,3 @@
-## Updates
-
 I am a Ph.D. candidate in Finance at the University of Miami. 
 
 My research focuses on climate change risk, behavioral and household finance, and asset pricing.
@@ -22,26 +20,17 @@ Nature-Loving CEOs
 
 ## References
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">**Dr. Alok Kumar** <br/> Professor of Finance <br/> University of Miami <br/> akumar@miami.edu </b></td>
-    <td><b style="font-size:30px">**Dr. George Korniotis** 2</b></td>
- </tr>
-</table>
+**Dr. Alok Kumar** <br/>
+Professor of Finance <br/>
+University of Miami <br/>
+akumar@miami.edu                 
 
-                        
+**Dr. George Korniotis** <br/>
+Professor of Finance <br/>
+University of Miami <br/>
+gkorniotis@miami.edu <br/>
 
-                      Professor of Finance
-
-                       University of Miami 
-
-                          gkorniotis@miami.edu
-
-
-**Dr. Ville Rantala**
-
-Assistant Professor of Finance
-
-University of Miami
-
-vrantala@bus.miami.edu
+**Dr. Ville Rantala** <br/>
+Assistant Professor of Finance <br/>
+University of Miami <br/>
+vrantala@bus.miami.edu 

@@ -13,7 +13,7 @@ Nature as a Defense from Disasters: Natural Capital and Municipal Bond Yields
 - Presented at Finance Down Under 2022, AFA Poster Session 2022, GRASFI 2021
 
 <details><summary>Abstract</summary>
-  This paper shows that climate risk mitigation strategies are priced in financial markets. Using extreme weather and natural capital loss shocks, I demonstrate that the municipal bond market starts to price natural capital following an extreme weather event. The yield spread between counties that lose natural capital and those that do not, i.e., the mitigation premium, increases from zero to 17 basis points. This effect is more prominent for revenue bonds, bonds financing infrastructure projects, and bonds issued by counties dependent on farming. Natural capital protection could decrease the county's cost of debt by \$2.1 million over the bonds' life.
+  #### This paper shows that climate risk mitigation strategies are priced in financial markets. Using extreme weather and natural capital loss shocks, I demonstrate that the municipal bond market starts to price natural capital following an extreme weather event. The yield spread between counties that lose natural capital and those that do not, i.e., the mitigation premium, increases from zero to 17 basis points. This effect is more prominent for revenue bonds, bonds financing infrastructure projects, and bonds issued by counties dependent on farming. Natural capital protection could decrease the county's cost of debt by \$2.1 million over the bonds' life.
 </details>
 
 ### Work in Progress

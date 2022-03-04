@@ -11,20 +11,33 @@ I will be on the academic job market in 2022/2023.
 Nature as a Defense from Disasters: Natural Capital and Municipal Bond Yields
 - Best paper at the Ivey/ARCS Ph.D. Sustainability Academy
 - Presented at Finance Down Under 2022, AFA Poster Session 2022, GRASFI 2021
-
-<details><summary>Abstract</summary>
+- <details><summary>Abstract</summary>
   #### This paper shows that climate risk mitigation strategies are priced in financial markets. Using extreme weather and natural capital loss shocks, I demonstrate that the municipal bond market starts to price natural capital following an extreme weather event. The yield spread between counties that lose natural capital and those that do not, i.e., the mitigation premium, increases from zero to 17 basis points. This effect is more prominent for revenue bonds, bonds financing infrastructure projects, and bonds issued by counties dependent on farming. Natural capital protection could decrease the county's cost of debt by \$2.1 million over the bonds' life.
 </details>
 
 ### Work in Progress
 
 The Samsara Effect: The Impact of Mortality and Asset Prices
+
 Nature-Loving CEOs
 
+### References
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Dr. Alok Kumar**                        **Dr. George Korniotis**
 
-### Jekyll Themes
+Professor of Finance                      Professor of Finance
+
+University of Miami                       University of Miami 
+
+akumar@miami.edu                          gkorniotis@miami.edu
+
+**Dr. Ville Rantala**
+
+Assistant Professor of Finance
+
+University of Miami
+
+vrantala@bus.miami.edu
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/claudiorizzi/claudiorizzi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

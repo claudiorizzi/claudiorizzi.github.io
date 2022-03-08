@@ -1,3 +1,49 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Author
+author:
+  name             : "Gary C. Lin"
+  avatar           : "/images/Headshot(2).jpg"
+  bio              : "Economist studying migration, trade, and cities."
+  location         : "Columbus, OH"
+  employer         :
+  pubmed           :
+  googlescholar    : 
+  email            : 
+  researchgate     : 
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "garycl"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : "Gary_C_Lin"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 I am a Ph.D. candidate in Finance at the University of Miami. 
 
 My research focuses on climate change risk, behavioral and household finance, and asset pricing.

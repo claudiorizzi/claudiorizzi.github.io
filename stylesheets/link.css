@@ -1,7 +1,7 @@
 /* LINK FORMATTING */
 a {
     /* paulgp Blue: #39c, or use royalblue*/ 
-    color:#39c;
+    color:##085431;
 }
 
 a:link {
@@ -10,7 +10,7 @@ a:link {
 }
 
 a:hover {
-  color:  #283747 ;
+  color:  #070808 ;
   background-color: transparent;
   text-decoration: none;
 }
@@ -30,7 +30,7 @@ a1:link {
 }
 
 a1:hover {
-  color:  gray ;
+  color:  black ;
   background-color: transparent;
   text-decoration: none;
 }
